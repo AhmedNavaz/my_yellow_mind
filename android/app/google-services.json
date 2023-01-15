@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321052478987",
+    "project_id": "yellow-mind",
+    "storage_bucket": "yellow-mind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321052478987:android:5e03eb0ceaa258a9aa010e",
+        "android_client_info": {
+          "package_name": "com.meditation.yellow_mind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321052478987-sqgmo77ae1tij79asluvuib7fv6nffn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meditation.yellow_mind",
+            "certificate_hash": "41a469036742390d4373a12b042e8d0257122ff6"
+          }
+        },
+        {
+          "client_id": "321052478987-p52im7u0jna01u4hk3bes4dkbt6chkuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_-bpej5YtKelvQ9EeTXHUHWqWTRgVvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321052478987-p52im7u0jna01u4hk3bes4dkbt6chkuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

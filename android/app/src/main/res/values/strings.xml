@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yellow Mind</string>
+    <string name="facebook_app_id">540729274647355</string>
+    <string name="fb_login_protocol_scheme">fb540729274647355</string>
+    <string name="facebook_client_token">c08c5bf9213987e25f247c3384e85fbd</string>
+</resources>
